@@ -21,8 +21,8 @@
 - **Creating Innovative Apps** 🚀
 - **UI/UX Design** 🎨
 
-    <a href="https://github.com/TheJetpackMaster/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=TheJetpackMaster&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    <a href="https://github.com/khubaibbaloch/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=khubaibbaloch&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
->>>>>>> 8cb4df8df08e698393eeaee48e49cc23de512248
