@@ -12,12 +12,17 @@
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+- **Android Development** 📱
+- **Backend Development** ✍️
+- **Web Development** 🌐
+- **Mobile App Development** 📲
+- **Open Source Contribution** 💻
+- **Tech Blogging** 📝
+- **Creating Innovative Apps** 🚀
+- **UI/UX Design** 🎨
 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    <a href="https://github.com/khubaibbaloch/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=khubaibbaloch&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
