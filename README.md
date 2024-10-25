@@ -1,13 +1,13 @@
 <<<<<<< HEAD
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/khubaibbaloch/khubaibbaloch/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
 ### Hi there, I am Khubaib 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Khubaib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/khubaib-aziz-khan-42b39421a/)
+[![Gmail Badge](https://img.shields.io/badge/-balochkhubaib008@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:balochkhubaib008@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://khubaibbaloch.github.io/Khubaib-Portfolio/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
@@ -22,23 +22,23 @@
     
 🛠**Tech Stack**
 
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+![Xml](https://img.shields.io/badge/-Xml-000000?style=flat&logo=Xml)
+![JatPack-Compose](https://img.shields.io/badge/JatPack-Compose-000000?style=flat-square&logo=amazon-JatPack-Compose)
+![KPM](https://img.shields.io/badge/-KMP-000000?style=flat&logo=linux&logoColor=FCC624)
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![Kivy](https://img.shields.io/badge/-Kivy-000000?style=flat&logo=Kivy)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Js](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=Javascript)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
-
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![FireBase](https://img.shields.io/badge/-FireBase-000000?style=flat&logo=FireBase)
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
