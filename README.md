@@ -74,6 +74,9 @@ Here are a few projects I’ve worked on:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khubaibbaloch&theme=tokyonight" />
 </p>
 
+> 📝 **Note:** Some contributions may come from private repositories. While the repos are private, the commits **do count** toward overall GitHub activity.
+
+
 ---
 
 ### 🌐 Let’s Connect
