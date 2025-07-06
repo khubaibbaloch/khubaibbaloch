@@ -27,7 +27,8 @@
   </a>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khubaibbaloch&layout=compact&theme=tokyonight&langs_count=6" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khubaibbaloch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibbaloch&theme=tokyonight" width="47%" />
 </p>
     
 🛠**Tech Stack**
