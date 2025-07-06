@@ -59,22 +59,7 @@ Here are a few projects I’ve worked on:
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khubaibbaloch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibbaloch&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khubaibbaloch&layout=compact&theme=tokyonight&langs_count=6" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khubaibbaloch&theme=tokyonight" />
-</p>
-
-> 📝 **Note:** Some contributions may come from private repositories. While the repos are private, the commits **do count** toward overall GitHub activity.
 
 
 ---
